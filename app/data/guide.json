@@ -1,0 +1,622 @@
+{
+ "about": "Enrichment for the Leonida Ledger guide: kinds, roadmap stages, missable judgements and short guides in our own words, written from the official descriptions in app/data/trophies.json. Missable flags marked from wording are judgements, not facts the list states; each entry's reason says which.",
+ "guides": [
+  {
+   "id": 1,
+   "kind": "misc",
+   "stage": 6,
+   "missable": false,
+   "missableReason": "It is earned by completing the rest of the list, so it carries no one-time condition of its own.",
+   "tip": "The platinum is awarded automatically once the other 54 trophies are earned; there is nothing separate to attempt. Use the roadmap order so the long counters are finished before the final push to 100%.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles"
+   ]
+  },
+  {
+   "id": 2,
+   "kind": "story",
+   "stage": 1,
+   "missable": false,
+   "missableReason": "The description asks only that the opening mission be completed; it states no choice or one-time condition.",
+   "tip": "Finish the opening mission, Gone Fishing. It is the first thing the story asks of you, so start the campaign and play it through to the end.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles"
+   ]
+  },
+  {
+   "id": 3,
+   "kind": "story",
+   "stage": 1,
+   "missable": false,
+   "missableReason": "A chapter completion; the description states no choice or one-time condition.",
+   "tip": "Complete Chapter 1. Chapters finish in order as the campaign advances, so keep playing the main missions and this unlocks on the chapter's last mission.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles"
+   ]
+  },
+  {
+   "id": 4,
+   "kind": "story",
+   "stage": 1,
+   "missable": false,
+   "missableReason": "A chapter completion; the description states no choice or one-time condition.",
+   "tip": "Complete Chapter 2. It follows Chapter 1 in the campaign's order; finish its closing mission and the trophy follows.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles"
+   ]
+  },
+  {
+   "id": 5,
+   "kind": "story",
+   "stage": 1,
+   "missable": false,
+   "missableReason": "A chapter completion; the description states no choice or one-time condition.",
+   "tip": "Complete Chapter 3. Keep working through the main story missions until the chapter closes.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles"
+   ]
+  },
+  {
+   "id": 6,
+   "kind": "story",
+   "stage": 1,
+   "missable": false,
+   "missableReason": "A chapter completion; the description states no choice or one-time condition.",
+   "tip": "Complete Chapter 4. This is the last numbered chapter before the final mission, so finishing it leaves only the ending between you and the gold story trophy.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles"
+   ]
+  },
+  {
+   "id": 7,
+   "kind": "story",
+   "stage": 1,
+   "missable": false,
+   "missableReason": "The description asks for the final mission to be completed; it states no choice or one-time condition.",
+   "tip": "Complete the final mission. It is the campaign's last story beat, reached after Chapter 4; play it through to close the story and take the gold.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles"
+   ]
+  },
+  {
+   "id": 8,
+   "kind": "story",
+   "stage": 1,
+   "missable": false,
+   "missableReason": "A named story mission completion; the description states no choice or one-time condition.",
+   "tip": "Complete the mission Breakfast Run. Named story missions are offered in sequence, so follow the story markers until it appears and finish it.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles"
+   ]
+  },
+  {
+   "id": 9,
+   "kind": "story",
+   "stage": 1,
+   "missable": false,
+   "missableReason": "A named story mission completion; the description states no choice or one-time condition.",
+   "tip": "Complete the mission The Cartel Heist. It arrives as part of the main story; play it through when it is offered.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles"
+   ]
+  },
+  {
+   "id": 10,
+   "kind": "story",
+   "stage": 1,
+   "missable": false,
+   "missableReason": "A named story mission completion; the description states no choice or one-time condition.",
+   "tip": "Complete the mission Child's Play when the story offers it, as with the other named missions in this part of the list.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles"
+   ]
+  },
+  {
+   "id": 11,
+   "kind": "story",
+   "stage": 1,
+   "missable": false,
+   "missableReason": "A named story mission completion; the description states no choice or one-time condition.",
+   "tip": "Complete the mission Headliners. Follow the main story until it is offered and finish it.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles"
+   ]
+  },
+  {
+   "id": 12,
+   "kind": "story",
+   "stage": 1,
+   "missable": false,
+   "missableReason": "A named story mission completion; the description states no choice or one-time condition.",
+   "tip": "Complete the mission VCIA Takedown. While you are at VCIA for this mission, also attempt Catch Me If You Can, whose description is tied to the same place.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles"
+   ]
+  },
+  {
+   "id": 13,
+   "kind": "story",
+   "stage": 1,
+   "missable": false,
+   "missableReason": "A named story mission completion; the description states no choice or one-time condition.",
+   "tip": "Complete the mission Operation Savage Glory when the story offers it and play it through to the end.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles"
+   ]
+  },
+  {
+   "id": 14,
+   "kind": "misc",
+   "stage": 6,
+   "missable": false,
+   "missableReason": "A cumulative completion counter; the description sets no deadline or one-time condition.",
+   "tip": "Attain 100% completion. Everything the game counts toward its completion percentage feeds this one — story, strands, collectibles and activities — so work the rest of the list first and let this be the last counter to fill.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles"
+   ]
+  },
+  {
+   "id": 15,
+   "kind": "collectible",
+   "stage": 3,
+   "missable": false,
+   "missableReason": "A cumulative count of stunts across the map; the description sets no deadline or one-time condition.",
+   "tip": "Complete 250 stunts. Stunts are spread across Leonida, so treat them as a map-wide set: clear them region by region while travelling for other trophies instead of hunting all of them at the end.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles"
+   ]
+  },
+  {
+   "id": 16,
+   "kind": "misc",
+   "stage": 4,
+   "missable": false,
+   "missableReason": "It asks for each activity type to be tried once; nothing in the wording is one-time.",
+   "tip": "Try each type of activity once. PlayStation's tracked target counts 9 activity types, so sample every distinct kind of activity the game offers at least once and the trophy follows.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles",
+    "PSNProfiles — Grand Theft Auto VI trophy page (the counts PlayStation tracks toward a trophy)"
+   ]
+  },
+  {
+   "id": 17,
+   "kind": "combat",
+   "stage": 4,
+   "missable": false,
+   "missableReason": "Range challenges can be replayed; the description sets no one-time condition.",
+   "tip": "Earn a gold medal in all Shooting Range challenges — 42 challenges by PlayStation's tracked count. Gold is a score threshold per challenge, so replay one range until its targets are familiar rather than moving on with a lesser medal.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles",
+    "PSNProfiles — Grand Theft Auto VI trophy page (the counts PlayStation tracks toward a trophy)"
+   ]
+  },
+  {
+   "id": 18,
+   "kind": "vehicle",
+   "stage": 4,
+   "missable": false,
+   "missableReason": "Races can be re-run; the description sets no one-time condition.",
+   "tip": "Win a Top Fun Drone Race at every location — 14 locations by PlayStation's tracked count. A win is required, not just a finish, so learn each course's line and retry until you come first.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles",
+    "PSNProfiles — Grand Theft Auto VI trophy page (the counts PlayStation tracks toward a trophy)"
+   ]
+  },
+  {
+   "id": 19,
+   "kind": "vehicle",
+   "stage": 4,
+   "missable": false,
+   "missableReason": "Races can be re-run; the description sets no one-time condition.",
+   "tip": "Win 20 different races. They must be different races, not the same one repeated, so move on to a new event after each win and keep a simple tally as you go.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles"
+   ]
+  },
+  {
+   "id": 20,
+   "kind": "misc",
+   "stage": 4,
+   "missable": false,
+   "missableReason": "A challenge against a named character; the description sets no one-time condition.",
+   "tip": "Beat Cal in a fishing challenge. Take the challenge when it is offered and land the better result by the challenge's own scoring; if you lose, the description gives no reason the challenge cannot be tried again.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles"
+   ]
+  },
+  {
+   "id": 21,
+   "kind": "misc",
+   "stage": 4,
+   "missable": false,
+   "missableReason": "Arcade games can be replayed; the description sets no one-time condition.",
+   "tip": "Complete an arcade game. Finishing is what the description asks, not winning, so pick any arcade game the world offers and play it through once.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles"
+   ]
+  },
+  {
+   "id": 22,
+   "kind": "story",
+   "stage": 2,
+   "missable": false,
+   "missableReason": "A strand finale; the description states no choice or one-time condition.",
+   "tip": "Complete the final mission for Andy. Work through Andy's mission strand in its order; this unlocks when his last mission is done.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles"
+   ]
+  },
+  {
+   "id": 23,
+   "kind": "story",
+   "stage": 2,
+   "missable": false,
+   "missableReason": "A strand finale; the description states no choice or one-time condition.",
+   "tip": "Complete the final mission for Kenton. Follow Kenton's strand to its end and finish the last mission he gives you.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles"
+   ]
+  },
+  {
+   "id": 24,
+   "kind": "story",
+   "stage": 2,
+   "missable": false,
+   "missableReason": "A strand finale; the description states no choice or one-time condition.",
+   "tip": "Complete the final mission for Billy. Play Billy's strand through in order and finish its closing mission.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles"
+   ]
+  },
+  {
+   "id": 25,
+   "kind": "story",
+   "stage": 2,
+   "missable": false,
+   "missableReason": "A count of completed strands; the description states no choice or one-time condition.",
+   "tip": "Complete 8 mission strands for strangers across Leonida. Each strand is one stranger's chain of missions, so finish whole chains rather than starting many — the strand finales elsewhere in this list are the same work.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles"
+   ]
+  },
+  {
+   "id": 26,
+   "kind": "story",
+   "stage": 2,
+   "missable": false,
+   "missableReason": "A strand finale; the description states no choice or one-time condition.",
+   "tip": "Complete the final mission for Randy. Work Randy's strand to its last mission and finish it.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles"
+   ]
+  },
+  {
+   "id": 27,
+   "kind": "story",
+   "stage": 2,
+   "missable": false,
+   "missableReason": "A strand finale; the description states no choice or one-time condition.",
+   "tip": "Complete the final mission for Tyrone. Play Tyrone's strand through and complete its final mission.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles"
+   ]
+  },
+  {
+   "id": 28,
+   "kind": "collectible",
+   "stage": 3,
+   "missable": false,
+   "missableReason": "The spots are fixed places that stay on the map; the description sets no one-time condition.",
+   "tip": "Meditate at every spot across Leonida — 18 spots by PlayStation's tracked count. They are fixed places, so sweep them area by area and tick each one off; a tracker earns its keep on exactly this kind of set.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles",
+    "PSNProfiles — Grand Theft Auto VI trophy page (the counts PlayStation tracks toward a trophy)"
+   ]
+  },
+  {
+   "id": 29,
+   "kind": "exploration",
+   "stage": 3,
+   "missable": false,
+   "missableReason": "A hunt given by a named character; the description sets no one-time condition.",
+   "tip": "Hunt a unique animal for Bret. The description asks for one specific animal, not hunting in general, so take Bret's hunt and track the animal it names.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles"
+   ]
+  },
+  {
+   "id": 30,
+   "kind": "collectible",
+   "stage": 3,
+   "missable": false,
+   "missableReason": "Cards remain collectible as you explore; the description sets no one-time condition.",
+   "tip": "Complete 3 Collectible Card sets. Cards are gathered into sets, so collect steadily while exploring and, late in the game, hunt the set that is closest to complete first.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles"
+   ]
+  },
+  {
+   "id": 31,
+   "kind": "collectible",
+   "stage": 3,
+   "missable": false,
+   "missableReason": "A cumulative count over fixed locations; the description sets no deadline or one-time condition.",
+   "tip": "WAiNK It at 100 locations. The count is in the description: one hundred separate locations, so use the WAiNK option whenever you arrive somewhere new and let the counter build across the whole game.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles"
+   ]
+  },
+  {
+   "id": 32,
+   "kind": "misc",
+   "stage": 4,
+   "missable": false,
+   "missableReason": "A cumulative count of challenges; the description sets no deadline or one-time condition.",
+   "tip": "Complete 50 Challenges. Challenges are the game's short scored tasks; clear them as they appear during other work and the fifty accumulate largely on their own.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles"
+   ]
+  },
+  {
+   "id": 33,
+   "kind": "social",
+   "stage": 2,
+   "missable": false,
+   "missableReason": "The condition is per-attempt and can be set up again; the wording sets no point of no return.",
+   "tip": "Lose a 4-star Wanted Level with your partner and escape the heat. Raise the wanted level to four stars while your partner is with you, then break line of sight and stay out of sight until the stars clear.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles",
+    "Rockstar Games — official Grand Theft Auto VI page, rockstargames.com/VI (the game's two-protagonist premise and its Leonida setting)"
+   ]
+  },
+  {
+   "id": 34,
+   "kind": "social",
+   "stage": 2,
+   "missable": false,
+   "missableReason": "The condition is per-attempt and can be set up again; the wording sets no point of no return.",
+   "tip": "Rob 3 shops back-to-back with your partner without losing your Wanted Level. Chain the three robberies inside one continuous wanted stretch: go straight from shop to shop together and never let the wanted level drop between them.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles",
+    "Rockstar Games — official Grand Theft Auto VI page, rockstargames.com/VI (the game's two-protagonist premise and its Leonida setting)"
+   ]
+  },
+  {
+   "id": 35,
+   "kind": "vehicle",
+   "stage": 3,
+   "missable": false,
+   "missableReason": "A cumulative count of distinct vehicles; the description sets no deadline or one-time condition.",
+   "tip": "Discover 100 vehicles. Discovery is about distinct vehicles, so get into models you have not used before whenever you pass one parked or in traffic.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles"
+   ]
+  },
+  {
+   "id": 36,
+   "kind": "combat",
+   "stage": 4,
+   "missable": false,
+   "missableReason": "The condition is per-attempt and can be set up again; the wording sets no point of no return.",
+   "tip": "Take down 5 enemies in a single use of Combat Focus. Save one activation for a group of five or more enemies in the open, then drop all five before the effect ends.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles"
+   ]
+  },
+  {
+   "id": 37,
+   "kind": "exploration",
+   "stage": 1,
+   "missable": true,
+   "missableReason": "Flagged on its wording: the act is tied to VCIA, the airport of the story mission VCIA Takedown, and the list does not say the chance returns after that mission — attempt it while you are there.",
+   "tip": "Make an unscheduled departure at VCIA. VCIA is the airport at the centre of the story mission VCIA Takedown; while you are there, leave by an unplanned route of your own — out by vehicle or aircraft — rather than the way events intend.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles"
+   ]
+  },
+  {
+   "id": 38,
+   "kind": "combat",
+   "stage": 4,
+   "missable": false,
+   "missableReason": "Encounters with heavy armour recur; the description sets no one-time condition.",
+   "tip": "The description jokes about the Rhino tank — 'Kinda hot in these Rhinos.' Expect to deal with Rhino tanks when the story or the open world puts you against them, and bring the heaviest weapons you own to that fight.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles"
+   ]
+  },
+  {
+   "id": 39,
+   "kind": "misc",
+   "stage": 5,
+   "missable": false,
+   "missableReason": "The condition is per-attempt: being detected spends that attempt, not the trophy, and the wording sets no point of no return.",
+   "tip": "Rob a jewelry store without being detected. Detection is the condition, not speed: get in, take what you can and leave before anyone raises the alarm; if you are spotted, that attempt is over but the store can be tried again.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles"
+   ]
+  },
+  {
+   "id": 40,
+   "kind": "misc",
+   "stage": 5,
+   "missable": false,
+   "missableReason": "Each robbery is a repeatable attempt; the description sets no one-time condition.",
+   "tip": "Rob 5 Bank Vaults and escape. A vault counts only when you also escape afterwards, so plan the getaway before you begin and finish the five as separate, clean getaways.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles"
+   ]
+  },
+  {
+   "id": 41,
+   "kind": "misc",
+   "stage": 5,
+   "missable": false,
+   "missableReason": "Armored trucks are a repeatable target; the description sets no one-time condition.",
+   "tip": "Rob an Armored Truck and escape. The escape is part of the requirement, so have a fast vehicle ready before you open the truck up.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles"
+   ]
+  },
+  {
+   "id": 42,
+   "kind": "exploration",
+   "stage": 3,
+   "missable": false,
+   "missableReason": "The map stays open to explore; the description sets no deadline or one-time condition.",
+   "tip": "Explore all of Leonida — 52 areas by PlayStation's tracked count. Uncover the state region by region; the last few areas are usually small places passed along main roads, so sweep the map's edges late in the game.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles",
+    "PSNProfiles — Grand Theft Auto VI trophy page (the counts PlayStation tracks toward a trophy)",
+    "Rockstar Games — official Grand Theft Auto VI page, rockstargames.com/VI (the game's two-protagonist premise and its Leonida setting)"
+   ]
+  },
+  {
+   "id": 43,
+   "kind": "misc",
+   "stage": 5,
+   "missable": false,
+   "missableReason": "Each gang's operations are repeatable targets; the description sets no one-time condition.",
+   "tip": "Rob an Illegal Operation belonging to each gang — 9 gangs by PlayStation's tracked count. One operation per gang is enough, so vary where you strike instead of robbing the same gang twice.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles",
+    "PSNProfiles — Grand Theft Auto VI trophy page (the counts PlayStation tracks toward a trophy)"
+   ]
+  },
+  {
+   "id": 44,
+   "kind": "exploration",
+   "stage": 3,
+   "missable": false,
+   "missableReason": "Ocean Beach is a place that stays on the map; the description sets no one-time condition.",
+   "tip": "Enjoy a cocktail with a view on Ocean Beach. Go to Ocean Beach, take the cocktail where drinks are served, and have it somewhere with the view the description asks for.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles"
+   ]
+  },
+  {
+   "id": 45,
+   "kind": "vehicle",
+   "stage": 4,
+   "missable": false,
+   "missableReason": "Showrooms stay in the world; the description sets no one-time condition.",
+   "tip": "Smash your way out of a vehicle showroom in classic style: get into a vehicle inside a showroom and drive out through the glass rather than leaving by the door.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles"
+   ]
+  },
+  {
+   "id": 46,
+   "kind": "misc",
+   "stage": 4,
+   "missable": false,
+   "missableReason": "The alley is a place that stays on the map; the description sets no one-time condition.",
+   "tip": "Follow-through at the Kolt & Associates' bowling alley. Visit that named alley and bowl there; 'follow-through' is the description's own hint that a proper bowling attempt is what it is watching for.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles"
+   ]
+  },
+  {
+   "id": 47,
+   "kind": "social",
+   "stage": 2,
+   "missable": false,
+   "missableReason": "The description names no act that could be passed once; nothing in its wording is one-time.",
+   "tip": "The description says only 'A partnership with mass appeal' and pins down no exact act. It sits with the partner trophies in this list, so spend time on joint activities with your partner and expect it from a shared moment the game scores as a partnership highlight.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles",
+    "Rockstar Games — official Grand Theft Auto VI page, rockstargames.com/VI (the game's two-protagonist premise and its Leonida setting)"
+   ]
+  },
+  {
+   "id": 48,
+   "kind": "misc",
+   "stage": 1,
+   "missable": true,
+   "missableReason": "Flagged on its wording: a trophy about choices made 'for better or worse' suggests decisions that stand once made, and the list does not say every choice can be revisited — choose deliberately from the start.",
+   "tip": "Choices made (for better or worse) — PlayStation tracks a count of 500. Choices accumulate as you play and decide things, so make decisions deliberately from the beginning rather than skipping past them; it is a long cumulative counter, not a single moment.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles",
+    "PSNProfiles — Grand Theft Auto VI trophy page (the counts PlayStation tracks toward a trophy)"
+   ]
+  },
+  {
+   "id": 49,
+   "kind": "misc",
+   "stage": 4,
+   "missable": true,
+   "missableReason": "Flagged on its wording: it needs a first attempt that did not succeed followed by a successful second one, so it depends on an activity that offers the retry — take the second attempt when one is offered.",
+   "tip": "Second time's the charm: succeed on a second try. Something must first not succeed and then be succeeded at on the retry, so when an attempt-based activity offers you another go, take it and make it count.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles"
+   ]
+  },
+  {
+   "id": 50,
+   "kind": "exploration",
+   "stage": 3,
+   "missable": false,
+   "missableReason": "The description names no place or act that could be passed once; nothing in its wording is one-time.",
+   "tip": "What the hell just happened? Witness something strange. The description gives no place and no act: this is the list's oddity trophy, so investigate unusual sights and encounters while exploring instead of only following the main path.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles"
+   ]
+  },
+  {
+   "id": 51,
+   "kind": "vehicle",
+   "stage": 4,
+   "missable": false,
+   "missableReason": "The condition is per-attempt and can be set up again; the wording sets no point of no return.",
+   "tip": "Bowl 'em over with a melee drive-by: knock someone down by striking them from a moving vehicle with a melee attack as you pass. Line up a pedestrian, roll past at moderate speed and swing as you draw level.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles"
+   ]
+  },
+  {
+   "id": 52,
+   "kind": "misc",
+   "stage": 5,
+   "missable": false,
+   "missableReason": "A cumulative money counter; the description sets no deadline or one-time condition.",
+   "tip": "Earn $250,000 laundering Marked Bills through your contacts. It is a cumulative counter, so feed marked bills to your laundering contacts whenever you hold them and start early — the robbery trophies supply the bills.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles"
+   ]
+  },
+  {
+   "id": 53,
+   "kind": "misc",
+   "stage": 5,
+   "missable": false,
+   "missableReason": "A cumulative money counter; the description sets no deadline or one-time condition.",
+   "tip": "Spend $100,000 across all shops. Spending anywhere counts toward the one total, so buy vehicles, weapons, clothes and services as you play and this fills steadily alongside everything else.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles"
+   ]
+  },
+  {
+   "id": 54,
+   "kind": "misc",
+   "stage": 5,
+   "missable": false,
+   "missableReason": "Properties stay on sale; the description sets no one-time condition.",
+   "tip": "Purchase all garage properties — 8 by PlayStation's tracked count. Buy each garage as your money allows; the purchases also feed the $100,000 spending counter.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles",
+    "PSNProfiles — Grand Theft Auto VI trophy page (the counts PlayStation tracks toward a trophy)"
+   ]
+  },
+  {
+   "id": 55,
+   "kind": "vehicle",
+   "stage": 5,
+   "missable": false,
+   "missableReason": "Vehicles keep arriving to register; the description sets no deadline or one-time condition.",
+   "tip": "Register 10 vehicles to the Scooter Bros app. When you acquire a vehicle, register it in the app before moving on; ten registrations complete the set.",
+   "sources": [
+    "Official PlayStation 5 trophy list for Grand Theft Auto VI, 2026-11-18 — names, descriptions and grades as published by PlayStation and listed by Exophase and PSNProfiles"
+   ]
+  }
+ ]
+}
