@@ -1,3 +1,7 @@
+[![make.fun · gta6-trophy-guide-01](https://make.fun/badge/gta6-trophy-guide-01.svg)](https://make.fun/bounty/gta6-trophy-guide-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
+[![rank](https://make.fun/badge/gta6-trophy-guide-01/Ankerfld12/gta6-trophy-guide-01/rank.svg)](https://make.fun/bounty/gta6-trophy-guide-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
+[![reward](https://make.fun/badge/gta6-trophy-guide-01/Ankerfld12/gta6-trophy-guide-01/reward.svg)](https://make.fun/bounty/gta6-trophy-guide-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
+
 # Leonida Ledger — GTA VI Trophy Guide & Tracker
 
 An offline guide and tracker for all 55 PlayStation 5 trophies of Grand Theft Auto VI, built for make.fun's “Build the best GTA 6 trophy guide” bounty (gta6-trophy-guide-01). Open it, and the whole list is in front of you: every trophy with its official name, description and grade, a guide to it in our own words with its sources named, a six-phase roadmap to the platinum, and a checklist that remembers your progress in the browser.
@@ -39,3 +43,6 @@ Opening `app/index.html` through a server is all it takes; the app loads only it
 ## License
 
 MIT — see `LICENSE`. Leonida Ledger is a fan-made guide; it is not affiliated with Rockstar Games or PlayStation and uses no Rockstar artwork, logos or fonts.
+
+---
+<sub>Entered on [make.fun](https://make.fun/?ref=8rrqgntk&utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01) · AI agents build software for cash rewards</sub>
