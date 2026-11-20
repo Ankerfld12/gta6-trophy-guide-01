@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Leonida Ledger — Grand Theft Auto VI Trophy Guide &amp; Tracker</title>
+<meta name="description" content="An offline guide and tracker for all 55 PlayStation 5 trophies of Grand Theft Auto VI: the official list, a roadmap to the platinum, missable flags reasoned from the official descriptions, and a cited guide to every trophy.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="site-head" id="top">
+  <div class="brand">
+    <p class="brand-mark" aria-hidden="true">LL</p>
+    <div class="brand-text">
+      <h1>Leonida Ledger</h1>
+      <p class="tagline">Grand Theft Auto VI — Trophy Guide &amp; Tracker · PlayStation 5</p>
+      <p class="source-line">All 55 official trophies: 1 platinum · 2 gold · 6 silver · 46 bronze. Names, descriptions and grades are the official wording; every guide below is written for this page and cites its sources. Works fully offline.</p>
+    </div>
+  </div>
+  <section class="progress-card" id="progressCard" aria-label="Your progress">
+    <p class="progress-big"><span id="earnedCount">0</span><span class="progress-of"> / 55 earned</span></p>
+    <p class="platinum-state" id="platinumState">Platinum locked — 54 trophies to go</p>
+    <div class="progress-track" role="progressbar" aria-label="Trophies earned" aria-valuemin="0" aria-valuemax="55" aria-valuenow="0" id="progressBarWrap">
+      <div class="progress-fill" id="progressFill"></div>
+    </div>
+    <p class="progress-pct" id="progressPct">0% of the list</p>
+    <ul class="grade-progress" id="gradeProgress">
+      <li><span class="dot dot-platinum"></span>Platinum <strong id="gp-platinum">0/1</strong></li>
+      <li><span class="dot dot-gold"></span>Gold <strong id="gp-gold">0/2</strong></li>
+      <li><span class="dot dot-silver"></span>Silver <strong id="gp-silver">0/6</strong></li>
+      <li><span class="dot dot-bronze"></span>Bronze <strong id="gp-bronze">0/46</strong></li>
+    </ul>
+    <div class="progress-actions">
+      <button type="button" id="exportBtn">Export progress (JSON)</button>
+      <button type="button" id="importBtn">Import progress</button>
+      <input type="file" id="importFile" accept="application/json,.json" hidden>
+      <button type="button" id="resetBtn" class="danger">Reset all</button>
+    </div>
+  </section>
+</header>
+
+<nav class="view-nav" aria-label="Views">
+  <button type="button" class="view-btn is-active" id="navGuide" data-view="guide">Trophy guide &amp; checklist</button>
+  <button type="button" class="view-btn" id="navRoadmap" data-view="roadmap">Roadmap to the platinum</button>
+</nav>
+
+<main>
+  <section id="view-guide" aria-label="Trophy checklist">
+    <div class="controls" id="controls">
+      <div class="control-row">
+        <label class="search-label">Search
+          <input type="search" id="searchInput" placeholder="Search name, description or guide…" autocomplete="off">
+        </label>
+        <label class="sort-label">Sort
+          <select id="sortSelect">
+            <option value="list">List order</option>
+            <option value="grade">Grade (platinum first)</option>
+            <option value="name">Name (A–Z)</option>
+          </select>
+        </label>
+        <label class="spoiler-toggle">
+          <input type="checkbox" id="spoilerToggle">
+          <span>Spoiler mode — blur story trophies until earned</span>
+        </label>
+      </div>
+      <div class="chip-row" role="group" aria-label="Filter by grade" id="gradeChips">
+        <span class="chip-label">Grade</span>
+        <button type="button" class="chip is-active" data-grade="all">All grades</button>
+        <button type="button" class="chip" data-grade="platinum">Platinum</button>
+        <button type="button" class="chip" data-grade="gold">Gold</button>
+        <button type="button" class="chip" data-grade="silver">Silver</button>
+        <button type="button" class="chip" data-grade="bronze">Bronze</button>
+      </div>
+      <div class="chip-row" role="group" aria-label="Filter by kind" id="kindChips">
+        <span class="chip-label">Kind</span>
+        <button type="button" class="chip is-active" data-kind="all">All kinds</button>
+        <button type="button" class="chip" data-kind="story">Story</button>
+        <button type="button" class="chip" data-kind="collectible">Collectible</button>
+        <button type="button" class="chip" data-kind="combat">Combat</button>
+        <button type="button" class="chip" data-kind="vehicle">Vehicle</button>
+        <button type="button" class="chip" data-kind="exploration">Exploration</button>
+        <button type="button" class="chip" data-kind="social">Social</button>
+        <button type="button" class="chip" data-kind="misc">Misc</button>
+      </div>
+      <div class="chip-row" role="group" aria-label="Filter by status" id="statusChips">
+        <span class="chip-label">Status</span>
+        <button type="button" class="chip is-active" data-status="all">All</button>
+        <button type="button" class="chip" data-status="earned">Earned</button>
+        <button type="button" class="chip" data-status="remaining">Remaining</button>
+        <button type="button" class="chip" data-status="missable">Missable only</button>
+      </div>
+      <div class="control-row bulk-row">
+        <button type="button" id="markVisibleBtn">Mark visible as earned</button>
+        <button type="button" id="clearVisibleBtn">Clear visible</button>
+        <p class="result-count" id="resultCount" role="status"></p>
+      </div>
+    </div>
+    <div class="cards" id="trophyList"></div>
+    <p class="empty-note" id="emptyNote" hidden>No trophies match the current filters. Loosen a filter or clear the search.</p>
+  </section>
+
+  <section id="view-roadmap" aria-label="Roadmap to the platinum" hidden>
+    <h2>Roadmap to the Platinum</h2>
+    <p class="roadmap-intro">Six phases, ordered from the official descriptions: story first (it unlocks everything else and holds the flagged one-chance moments), strands and partner work while the map is fresh, then the Leonida-wide sets, the skill targets, the money game, and the 100% counter that closes the list. Hour figures are rough planning estimates inferred from the counts in the official descriptions (250 stunts, 100 locations, 42 range challenges) — they are estimates, not promises or measured times.</p>
+    <div id="roadmapPhases"></div>
+    <aside class="missable-callout" id="missableCallout">
+      <h3>Missable watch — read this before you start</h3>
+      <p>No official description in the list states a point of no return, and this guide will not invent one. Three descriptions carry wording that suggests a choice or a single story moment, so those three are flagged. Everything else is a completion, a cumulative count, or a per-attempt condition you can set up again.</p>
+      <ul id="missableList"></ul>
+    </aside>
+  </section>
+</main>
+
+<footer class="site-foot">
+  <p>Sources: the official PlayStation 5 trophy list for Grand Theft Auto VI (2026-11-18), as published by PlayStation and listed by Exophase and PSNProfiles; PlayStation's tracked counts via PSNProfiles; Rockstar Games' official Grand Theft Auto VI page for the game's premise. Each trophy's guide names its own sources beside it. No step, location or count is asserted beyond what those sources state.</p>
+  <p>Leonida Ledger is a fan-made, open-source guide. It is not affiliated with Rockstar Games or PlayStation, and uses no Rockstar artwork or logos. Progress is stored only in your browser (localStorage) and never leaves your machine.</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
